@@ -10,7 +10,7 @@ The name’s KARAN. I am a tireless seeker of knowledge, occassional purveyor of
 
 ### Hall of Flame
 
-https://karansparrow.tech
+https://karansparrow.tech /n
 https://fortune.me
 https://dailycareproducts.me
 https://sparrodesigns.tech
