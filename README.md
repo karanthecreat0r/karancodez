@@ -10,10 +10,10 @@ The name’s KARAN. I am a tireless seeker of knowledge, occassional purveyor of
 
 ### Hall of Flame
 
-https://karansparrow.tech /n
-https://fortune.me
-https://dailycareproducts.me
-https://sparrodesigns.tech
+https://karansparrow.tech <br />
+https://fortune.me <br />
+https://dailycareproducts.me <br />
+https://sparrodesigns.tech <br />
 
 "Creator passionate in technology, who is currently walking towards his career path".
 #### Back End Developer
