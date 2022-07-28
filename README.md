@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @karansparrow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming & Designing
+- 🌱 I’m currently learning java development
+- 💞️ I’m looking to collaborate on prjects
+- 📫 Reach me in twetter
 
 
 “Knowledge has a beginning, but no end”
@@ -10,10 +10,10 @@ The name’s KARAN. I am a tireless seeker of knowledge, occassional purveyor of
 
 ### Hall of Flame
 
-karansparrow.tech
-fortune.me
-dailycareproducts.me
-sparrodesigns.tech
+https://karansparrow.tech
+https://fortune.me
+https://dailycareproducts.me
+https://sparrodesigns.tech
 
 "Creator passionate in technology, who is currently walking towards his career path".
 #### Back End Developer
