@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karansparrow
 - 👀 I’m interested in Programming & Designing
 - 🌱 I’m currently learning java development
-- 💞️ I’m looking to collaborate on prjects
+- 💞️ I’m looking to collaborate on projects
 - 📫 Reach me in twetter
 
 
