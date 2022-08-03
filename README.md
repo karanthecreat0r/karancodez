@@ -11,7 +11,7 @@ The name’s KARAN. I am a tireless seeker of knowledge, occassional purveyor of
 ### Hall of Flame
 
 https://karansparrow.tech <br />
-https://fortune.me <br />
+https://fortume.me <br />
 https://dailycareproducts.me <br />
 https://sparrodesigns.tech <br />
 
