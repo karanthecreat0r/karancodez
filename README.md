@@ -1,7 +1,7 @@
 ![Youtube_banner](https://user-images.githubusercontent.com/49363662/198814912-bd0b076b-00a0-40cb-a1e2-275f73c7b939.jpg)
 
 <h1 align="center">Hi 👋, I'm karan</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 
 
