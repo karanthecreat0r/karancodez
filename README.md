@@ -1,4 +1,5 @@
-[![MasterHead] https://user-images.githubusercontent.com/49363662/194613936-bf1269eb-f9b0-4857-9c9a-d61f45a89e2a.mp4)](https://karansparrow.io
+![Youtube_banner](https://user-images.githubusercontent.com/49363662/198814912-bd0b076b-00a0-40cb-a1e2-275f73c7b939.jpg)
+
 <h1 align="center">Hi 👋, I'm karan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
