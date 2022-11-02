@@ -51,7 +51,3 @@ https://fortuneme.me <br />
 https://dailycareproducts.me <br />
 https://sparrodesigns.tech <br />
 
-"Creator passionate in technology, who is currently walking towards his career path".
-#### Back End Developer
-who focuses on writing clean, elegant and efficient code.
-
