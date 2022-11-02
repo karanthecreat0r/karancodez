@@ -1,3 +1,5 @@
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Karan!](https://karansparrow.tech) 
+
 ![Youtube_banner](https://user-images.githubusercontent.com/49363662/198814912-bd0b076b-00a0-40cb-a1e2-275f73c7b939.jpg)
 
 <h1 align="center">Hi 👋, I'm karan</h1>
