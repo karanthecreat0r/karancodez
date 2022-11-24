@@ -45,9 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansparrow&" alt="karansparrow" /></p>
 
-
-https://karansparrow.tech <br />
-https://fortuneme.me <br />
-https://dailycareproducts.me <br />
-https://sparrodesigns.tech <br />
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I2GDTDG)
