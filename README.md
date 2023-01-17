@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">A passionate Fullstack developer from India</h1>![Uploading Youtube_banner.jpg…]()![Uploading Youtube_banner.jpg…]()
+<h1 align="center">A passionate Fullstack developer from India</h1>
 
 
 
@@ -44,7 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karancodez&show_icons=true&locale=en&layout=compact" alt="karan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karacodez&show_icons=true&locale=en" alt="karan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karancodez&show_icons=true&locale=en" alt="karan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karancodez&" alt="karan" /></p>
 
