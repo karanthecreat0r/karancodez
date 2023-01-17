@@ -1,9 +1,12 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Karan!](https://karansparrow.tech) 
 
-![Youtube_banner](https://user-images.githubusercontent.com/49363662/198814912-bd0b076b-00a0-40cb-a1e2-275f73c7b939.jpg)
+![Youtube_banytner](https://user-images.githubusercontent.com/49363662/212835498-483402ad-d697-4cd9-9e9b-f4ce96e4747b.jpg)
 
 
-<h1 align="center">A passionate Fullstack developer from India</h1>
+
+<h1 align="center">A passionate Fullstack developer from India</h1>![Uploading Youtube_banner.jpg…]()![Uploading Youtube_banner.jpg…]()
+
+
 
 
 
