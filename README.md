@@ -32,10 +32,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krnsprrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krnsprrw" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/karan-b51516237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansparrow" height="30" width="40" /></a>
+<a href="https://twitter.com/karancodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krnsprrw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karancodez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansparrow" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19786603/karan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="krnsprrw" height="30" width="40" /></a>
-<a href="https://instagram.com/krnsprrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krnsprrw" height="30" width="40" /></a>
+<a href="https://instagram.com/karancodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krnsprrw" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCrZvBS4yGXjaNKkkP1YUB_Q?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karansparrow" height="30" width="40" /></a>
 </p>
 
