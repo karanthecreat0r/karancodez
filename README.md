@@ -1,6 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Karan!](https://karansparrow.tech) 
 
-![Youtube_banytner](https://user-images.githubusercontent.com/49363662/212835498-483402ad-d697-4cd9-9e9b-f4ce96e4747b.jpg)
+
+![White and Black Minimalist Marketing Manger Linkedin banner](https://user-images.githubusercontent.com/49363662/215074522-45231e3f-1504-4afd-acd2-57f32196b9f7.jpg)
 
 
 
