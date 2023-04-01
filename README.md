@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karansparrow&label=Profile%20views&color=0e75b6&style=flat" alt="karansparrow" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansparrow" alt="karansparrow" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web Development | Java | python |**
 
@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [karansparrow.tech](karansparrow.tech)
 
-- 📝 I regularly write articles on [karansparrow.tech/blog](karansparrow.tech/blog)
+- 📝 I regularly write articles on [karansparrow.tech/blog]([karansparrow.tech/blog](https://karancodez.hashnode.dev/))
 
 - 💬 Ask me about **Java | Web Development**
 
