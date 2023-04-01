@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Java | Web Development**
 
-- 📫 How to reach me **karansparrow1226@gmail.com**
+- 📫 How to reach me **karan.creative@proton.me**
 
 - 📄 Know about my experiences [karansparrow.tech](karansparrow.tech)
 
